@@ -1,13 +1,13 @@
 import React from 'react';
-import Blogs from '../Blogs/Blogs';
-import Contact from '../Contact/Contact';
-import Doctors from '../Doctors/Doctors';
 import FeaturedService from '../FeaturedService/FeaturedService';
-import Footer from '../Footer/Footer';
-import Header from '../Header/Header';
 import MakeAppointment from '../MakeAppointment/MakeAppointment';
-import Services from '../Services/Services';
 import Testimonials from '../Testimonials/Testimonials';
+import Header from '../Header/Header';
+import Services from '../Services/Services';
+import Blogs from '../Blogs/Blogs';
+import Doctors from '../Doctors/Doctors';
+import Contact from '../Contact/Contact';
+import Footer from '../../Shared/Footer/Footer';
 
 const Home = () => {
     return (
